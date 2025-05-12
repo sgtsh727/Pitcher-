@@ -1,0 +1,6 @@
+streamlit
+pandas
+pybaseball
+seaborn
+matplotlib
+plotly
